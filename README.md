@@ -1,1 +1,3 @@
-# agrigrade-ai-model
+# AgriGrade AI Model
+
+Starter machine learning code.
